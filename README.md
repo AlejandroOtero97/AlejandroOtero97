@@ -1,6 +1,8 @@
 # Hi there, i'm Ale! 👋 
 
-<div align=”center”> ![](https://media2.giphy.com/media/M1oPO3TchPJS/giphy.gif?cid=ecf05e47qijtrtc3hnec32a6kav0ehv1dmuf48n1y2rotr9x&rid=giphy.gif&ct=g)</div>
+<p align="center">
+  <img src="https://media2.giphy.com/media/M1oPO3TchPJS/giphy.gif?cid=ecf05e47qijtrtc3hnec32a6kav0ehv1dmuf48n1y2rotr9x&rid=giphy.gif&ct=g" alt="animated" />
+</p>
 
 ## I'm a Student, Trainer and a Front End Developer
 
