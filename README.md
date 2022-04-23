@@ -1,7 +1,7 @@
 # Hi there, i'm Ale! 👋 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/M1oPO3TchPJS/giphy.gif?cid=ecf05e47qijtrtc3hnec32a6kav0ehv1dmuf48n1y2rotr9x&rid=giphy.gif&ct=g" alt="animated" />
+  <img src="https://tenor.com/view/lalaartwork-lala-hijab-transparent-background-sticker-gif-12652050" alt="animated" />
 </p>
 
 ## I'm a Student, Trainer and a Front End Developer
