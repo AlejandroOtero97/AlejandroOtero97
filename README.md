@@ -4,7 +4,7 @@
   <img src="https://media2.giphy.com/media/M1oPO3TchPJS/giphy.gif?cid=ecf05e47qijtrtc3hnec32a6kav0ehv1dmuf48n1y2rotr9x&rid=giphy.gif&ct=g" alt="animated" />
 </p>
 
-## I'm a Student, Trainer and a Front End Developer
+## I'm a Front End Developer, Trainer and a Student
 
 - 🌱 I’m currently learning backend technologies
 - ⚡ I’m looking for jobs as a front end developer
