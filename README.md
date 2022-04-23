@@ -1,7 +1,7 @@
 # Hi there, i'm Ale! 👋 
 
 <p align="center">
-  <img src="https://c.tenor.com/KBnATdctL1MAAAAC/jujutsu-kaisen-jujutsu-kaisen-dance.gif" alt="animated" />
+  <img src="https://c.tenor.com/Tcacx_0TUS0AAAAC/sawunn.gif" alt="animated" />
 </p>
 
 ## I'm a Front End Developer, Personal Trainer and a Student
