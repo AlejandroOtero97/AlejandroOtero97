@@ -26,6 +26,6 @@
 
 ### Connect with me!
 
+[**My Instagram!**](https://www.instagram.com/ale_otero2/ "My Instagram!")
 
-[instagram]: https://instagram.com/ale_otero2/
-[linkedin]: https://linkedin.com/in/alejandro-otero-656a3518a/
+[**My Linkedin!**](https://www.linkedin.com/in/alejandro-otero-656a3518a/ "My Linkedin!")
