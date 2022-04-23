@@ -1,17 +1,11 @@
 # Hi there, i'm Ale! 👋 
 
-<p align="center">
-  <img src="https://c.tenor.com/KBnATdctL1MAAAAC/jujutsu-kaisen-jujutsu-kaisen-dance.gif" alt="animated" />
-</p>
-
 ## I'm a Front End Developer, Personal Trainer and a Student
 
 - 🌱 I’m currently learning backend technologies
 - ⚡ I’m looking for jobs as a front end developer
 - 🥅 2022 Goals: Learn more about ReactJs and programming in general!
 - ⚡ Fun fact: im a Personal Trainer!
-
-
 
 ### Languages and Tools:
 
@@ -32,3 +26,7 @@
 [**My Instagram!**](https://www.instagram.com/ale_otero2/ "My Instagram!")
 
 [**My Linkedin!**](https://www.linkedin.com/in/alejandro-otero-656a3518a/ "My Linkedin!")
+
+<p align="center">
+  <img src="https://c.tenor.com/KBnATdctL1MAAAAC/jujutsu-kaisen-jujutsu-kaisen-dance.gif" alt="animated" />
+</p>
