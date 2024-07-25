@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning backend technologies
 - ⚡ I’m looking for jobs as a front end developer
-- 🥅 2022 Goals: Learn more about ReactJs and programming in general!
+- 🥅 2024 Goals: Learn more about ReactJs and programming in general!
 - ⚡ Fun fact: im a Personal Trainer!
 
 
